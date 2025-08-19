@@ -7,7 +7,7 @@ type Props = {
 
 export const metadata: Metadata = {
   title: "Easy Pack Indonesia",
-  description: "Official Website of PT Easy Pack Indonesia",
+  description: "Official Website of Easy Pack",
   authors: [
     { name: "Brian Adhitya" },
     { name: "PT Easy Pack Indonesia" },
